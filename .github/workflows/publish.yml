@@ -20,7 +20,7 @@ jobs:
         with:
           publish: "true"
           package-name: claude-code
-          package-namespace: always-further
+          package-namespace: lukehinds
           package-version: ${{ github.ref_name }}
           nono-version: latest
           package-path: .
