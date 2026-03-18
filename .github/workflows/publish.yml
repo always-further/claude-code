@@ -24,7 +24,7 @@ jobs:
           package-version: ${{ github.ref_name }}
           nono-version: latest
           package-path: .
-          registry-url: https://far416w50qhc.share.zrok.io/api/v1
+          registry-url: https://x2b3g8ac61ld.share.zrok.io
           files: |
             package.json
             claude-code.profile.json
